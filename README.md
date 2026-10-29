@@ -1,0 +1,1 @@
+A collection of lightweight Windows scripts for developers and power users to simplify system operations, automate repetitive tasks, and create quick workflow shortcuts. Designed to make everyday tasks faster, easier, and more efficient.
